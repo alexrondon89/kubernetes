@@ -1,0 +1,13 @@
+# Test binary, built with `go test -c`
+coverfile_out*
+
+### Go Patch ###
+/build/
+/build/bin/api-alta-cliente-credito-en-cuotas
+
+# Vscode generated
+/.vscode/
+
+# IntelliJ
+.idea/
+
